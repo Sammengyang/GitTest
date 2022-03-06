@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("切换版本3");
         System.out.println("hot-fix 1.0");
         System.out.println("master 冲突test");
+        System.out.println("test push");
     }
 }
